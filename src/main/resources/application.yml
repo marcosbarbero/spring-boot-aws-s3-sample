@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    stack:
+      # https://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html#_cloudformation_configuration_in_spring_boot
+      auto: false
+    region:
+      static: eu-central-1
+    credentials:
+      access-key: 31a9d4ba-5224-4d0b-9b40-2a6a769f48fe
+      secret-key: c6db1fd3-5d46-4d88-bbd0-5e5ad506efa6
